@@ -7,8 +7,8 @@ Free to use, but credit is appreciated. Please let me know if you find any optim
 Latest verified editor version: 2022.3.2f1
 
 ## Samples
-![TV Screen Sample Video - Color Test](/repository/Samples/sample-vid-ct.gif?raw=true "Sample Video Color Test")
-![TV Screen Sample Video - Movie](/repository/Samples/sample-vid-movie.gif?raw=true "Sample Video Movie")
+![TV Screen Sample Video - Color Test](/Samples/sample-vid-ct.gif)
+![TV Screen Sample Video - Movie](/Samples/sample-vid-movie.gif)
 
 
 ## Instructions
