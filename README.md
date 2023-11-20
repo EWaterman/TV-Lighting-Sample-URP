@@ -1,6 +1,6 @@
 # TV Lighting - Unity URP
 
-An example project for how to accurately simulate a TV screen playing video in Unity. Built using the universal render pipeline but should work just as well in HDRP.
+An example project for how to accurately simulate a TV screen playing video in Unity. Uses a custom shader for the screen material built in shader graph. Built using the universal render pipeline but should work just as well in HDRP.
 
 Free to use, but credit is appreciated. Please let me know if you find any optimizations or improvements! PRs are welcome.
 
